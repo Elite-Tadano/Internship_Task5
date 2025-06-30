@@ -32,9 +32,8 @@ Capture and analyze live network traffic using Wireshark and identify at least 3
 
 ## Files Included
 
-- `task5_capture.pcap` - Packet capture file.
-- `report_task5.pdf` - Detailed protocol analysis report.
-- `screenshots/` (optional) - Screenshots of filtered packets.
+- `task5_Capture.pcap` - Packet capture file.
+- `report_task5.md` - Detailed protocol analysis report.
 
 ## Outcome
 I learned how to capture, filter, and analyze live network traffic, and gained familiarity with real-time protocol inspection.
