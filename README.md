@@ -11,16 +11,22 @@ Capture and analyze live network traffic using Wireshark and identify at least 3
 ## Steps Followed
 
 1. **Installed Wireshark** and selected the active network interface (Wi-Fi).
+![image](https://github.com/user-attachments/assets/a94781ff-f4c9-4d91-9bb0-f565246ab907)
 2. **Started live capture** by clicking the shark icon.
-3. **Generated traffic**:
+![image](https://github.com/user-attachments/assets/7542d475-219e-4eda-b108-1411a3a6d7d4)
+4. **Generated traffic**:
    - Opened `google.com` in the browser.
    - Ran `ping google.com` in terminal.
-4. **Stopped capture** after ~1 minute.
-5. **Filtered packets** by protocols using:
+5. **Stopped capture** after ~1 minute.
+6. **Filtered packets** by protocols using:
    - `http`
+![image](https://github.com/user-attachments/assets/24bdbc2a-46f7-4b75-8aab-6d58f79370d2)
    - `dns`
+![image](https://github.com/user-attachments/assets/e8846606-d39a-4cb8-b7c7-136f9c81a366)
    - `tcp`
-6. **Identified protocols** and saved the capture as `task5_capture.pcap`.
+![image](https://github.com/user-attachments/assets/e57d1c76-cd6d-4680-b45d-1aab32522c41)
+
+7. **Identified protocols** and saved the capture as `task5_Capture.pcap`.
 
 ## Protocols Identified
 
